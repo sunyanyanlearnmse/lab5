@@ -18,19 +18,26 @@ p{
 .image1{ 
   border-radius: 50%;
   width: 150px;
-  border-style:solid;
+  border-style:outset;
+  border-color: rgb(43, 101, 226);
 }
 .image2{ 
   border-radius: 50%;
   width: 150px;
+  border-style:inset;
+  border-color: rgb(226, 192, 43);
   }
 .image3{ 
   border-radius: 50%;
   width: 150px;
+  border-style:solid;
+  border-color: rgb(82, 67, 2);
   }
 .image4{ 
   border-radius: 50%;
   width: 160px;
+  border-style:groove;
+  border-color: rgb(43, 214, 226);groove
   }
 
 
