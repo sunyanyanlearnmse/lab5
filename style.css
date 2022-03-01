@@ -1,13 +1,15 @@
 
-body  {background-image:url(media/universal.jpg); 
+body  {background-image:url(media/S.jpg); 
        background-size:cover;
        background-repeat: no-repeat;
+       background-color: blanchedalmond;
       }
   h1
     {
-      color: rgb(17, 37, 141);
+      color: rgb(129, 141, 17);
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
       font-size: 25px;
+      font-weight: 900;
 
     }
 
@@ -17,11 +19,43 @@ p{
 
 }
 
-    table, th, td 
-{
-  padding :10px;
-  background-color: #566c9c;
-  
+.image1{ 
+  border-radius: 50%;
+  width: 150px;
+  border-style:solid;
+	border-color:#020214;
+  }
+.image2{ 
+  border-radius: 50%;
+  width: 150px;
+  }
+.image3{ 
+  border-radius: 50%;
+  width: 150px;
+  }
+.image4{ 
+  border-radius: 50%;
+  width: 160px;
+  }
 
+.table_1 table, td, th{
+  border:1px solid rgb(246, 248, 246);
+  margin: auto;
+}
 
+.table_1 th{  
+  background-color: burlywood;
+  color: rgb(56, 116, 29);  
+  vertical-align:center;
+  text-align:center;
+  font-size: 16px;
+}
+
+.table_1 td{
+  padding: 10px;
+  background-color: rgb(0, 174, 255);
+  color :aqua
+  vertical-align:center;
+  text-align:center;
+  font: 1em sans-serif;
 }
