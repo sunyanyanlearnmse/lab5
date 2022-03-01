@@ -41,28 +41,24 @@ p{
   }
 
 
-.table_1 table{
+.table_1 table,th,td{
+  width: 800px;
+  height: 36px;
   margin: auto;
+  border-radius: 50%;
   text-align: center;
+  vertical-align:center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  box-shadow: 3px 3px 3px #aaaabb ;
 }
 
-.table_1 th{  
-  padding: 10px;
+.table_1 th{    
   background-color: burlywood;
   color: rgb(56, 116, 29);  
-  vertical-align:center;
-  text-align:center;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 16px;
-
-}
+  }
 
 .table_1 td{
-  padding: 10px;
   background-color: rgb(0, 174, 255);
   color :aqua;
-  vertical-align:center;
-  text-align:center;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 16px;
-}
+  }
