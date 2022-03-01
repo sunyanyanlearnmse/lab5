@@ -2,8 +2,6 @@
 body{
      background-image:url(media/S.jpg); 
      background-size:cover;
-     background-repeat: no-repeat;
-     background-color: blanchedalmond;
 }
 h1{
       color: rgb(129, 141, 17);
@@ -36,8 +34,9 @@ p{
   width: 160px;
   }
 
-.table_1 table, td, th{
-  border:1px solid rgb(246, 248, 246);
+
+.table_1 table{
+  border:1px solid rgb(214, 238, 214);
   margin: auto;
 }
 
