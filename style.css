@@ -1,0 +1,27 @@
+
+body  {background-image:url(media/universal.jpg); 
+       background-size:cover;
+       background-repeat: no-repeat;
+      }
+  h1
+    {
+      color: rgb(17, 37, 141);
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+      font-size: 25px;
+
+    }
+
+p{
+    color: rgb(71, 203, 255);
+    font-size: 20px;
+
+}
+
+    table, th, td 
+{
+  padding :10px;
+  background-color: #566c9c;
+  
+
+
+}
