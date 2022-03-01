@@ -54,7 +54,7 @@ p{
 .table_1 td{
   padding: 10px;
   background-color: rgb(0, 174, 255);
-  color :aqua
+  color :aqua;
   vertical-align:center;
   text-align:center;
   font: 1em sans-serif;
